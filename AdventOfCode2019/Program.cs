@@ -1,6 +1,7 @@
 ﻿using System;
 using AdventOfCode2019.Day1;
 using AdventOfCode2019.Day2;
+using AdventOfCode2019.Day3;
 
 namespace AdventOfCode2019
 {
@@ -8,7 +9,7 @@ namespace AdventOfCode2019
     {
         static void Main(string[] args)
         {
-            new SolutionDay2().RunSolution2();
+            new SolutionDay3().RunSolution1();
             Console.ReadKey(false);
         }
     }
