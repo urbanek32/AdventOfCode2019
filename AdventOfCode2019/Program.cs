@@ -8,7 +8,7 @@ namespace AdventOfCode2019
     {
         static void Main(string[] args)
         {
-            new SolutionDay2().RunSolution1();
+            new SolutionDay2().RunSolution2();
             Console.ReadKey(false);
         }
     }
